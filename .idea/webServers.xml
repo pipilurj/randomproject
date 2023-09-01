@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6dc534d8-ade8-40f6-a0b9-763ce79bbb01" name="transformer">
+        <fileTransfer rootFolder="/home/pirenjie/transformer-master" accessType="SFTP" host="36.111.143.253" port="22" sshConfigId="79c6e3fd-6878-4f0d-96bf-589cf168d13d" sshConfig="pirenjie@36.111.143.253:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="165732df-48fa-4b58-9d6b-44d20a77822c" name="transformer2">
+        <fileTransfer rootFolder="/home/pirenjie/transformer-master" accessType="SFTP" host="36.111.143.253" port="22" sshConfigId="79c6e3fd-6878-4f0d-96bf-589cf168d13d" sshConfig="pirenjie@36.111.143.253:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
